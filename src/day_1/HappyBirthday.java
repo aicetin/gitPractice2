@@ -1,7 +1,7 @@
 package day_1;
 
-public class Login {
+public class HappyBirthday {
     public static void main(String[] args) {
- // I will write some code
+
     }
 }
